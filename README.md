@@ -3,7 +3,7 @@ Task :- Created a custom website and started the web server:
 
 This project involved hosting a website on AWS using MobaXterm, and it has been an incredible learning experience.
 ## Project Highlights:
-1️.Logged into the AWS Console to get started.
+1️. Logged into the AWS Console to get started.
 2️.Created and launched an EC2 instance.
 3️. Configured the security groups:
 Port 22 (SSH) for admin access only.
